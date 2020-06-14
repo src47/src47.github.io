@@ -13,6 +13,9 @@ I am a first-year PhD student at Stanford University and the SLAC National Accel
 ## Past Research 
 
 - Neural Network Loss Landscapes 
+
+![](images/disconnectivityGraphs.png)
+
 - JPL Research 
 - Machine Learning for cardiac ultrasound time-series data 
 
