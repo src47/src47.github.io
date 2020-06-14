@@ -16,4 +16,8 @@ I am a first-year PhD student at Stanford University and the SLAC National Accel
 - JPL Research 
 - Machine Learning for cardiac ultrasound time-series data 
 
+![](images/cardiacUltrasound.png)
+
+
+
 
