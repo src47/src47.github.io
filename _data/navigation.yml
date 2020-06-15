@@ -5,6 +5,12 @@
 # - title: Presentations
 #  url: /presentations/
 
+- title: Current Projects 
+  url: /cur/
+
+- title: Past Projects
+  url: /past/
+  
 - title: Experience
   url: /cv/
 
