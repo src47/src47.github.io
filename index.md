@@ -1,4 +1,3 @@
-https://github.com/src47/src47.github.io---
 layout: page
 excerpt: "About Me..."
 ---
