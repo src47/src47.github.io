@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-## Resume
+## Current Occupation
 
 PhD Student at Stanford University and SLAC National Accelerator Laboratory 
 
@@ -50,7 +50,6 @@ Book Title, Journal Title
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
-
 ## Occupation
 
 `Current`
@@ -69,6 +68,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2020 -->
 
 
