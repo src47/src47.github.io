@@ -1,19 +1,23 @@
 ---
 layout: resume
 ---
-## Currently
+## Resume
 
-Current Position Description
+PhD Student at Stanford University and SLAC National Accelerator Laboratory 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2019 - 2024`
+__Stanford University__
+PhD in Materials Science and Engineering 
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2018-2019`
+__Cambridge University__
+MPhil in Scientific Computing
+
+`2014-2018`
+__Pomona College__
+BA in Chemistry
 
 ## Awards
 
