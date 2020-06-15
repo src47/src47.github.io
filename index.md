@@ -31,7 +31,7 @@ collaborators: Philipp Veepoort, Alpha Lee and David Wales (PI)
 
 collaborators: Fred Grieman, Xu Zhang (PI)  
 
-#### Machine Learning for cardiac ultrasound time-series data <a href="research/Cardiac/SPIE2017.pdf">[PDF]</a></div>
+#### Machine Learning for cardiac ultrasound time-series data <a href="Papers/SPIE2017.pdf">[PDF]</a></div>
 
 <img src="images/CardiacUltrasound.png" width="750"/>
 
