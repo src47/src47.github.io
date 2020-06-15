@@ -17,7 +17,7 @@ collaborators: Richard Walroth, Vivek Thampy, Kevin Stone, Evan Reed, Mike Dunne
 
 collaborators: TJ Lane, Daniel Ratner, Yanwen Sun, Diling Zhu, Mike Dunne (PI)
 
-## Past Research 
+## Past Projects 
 
 #### Neural Network Loss Landscapes 
 
