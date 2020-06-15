@@ -19,7 +19,7 @@ MPhil in Scientific Computing
 __Pomona College__
 BA in Chemistry
 
-## Awards
+## Recent Awards
 
 `2019`
 MPhil in Scientific Computing Thesis Distinction, Cambridge University
