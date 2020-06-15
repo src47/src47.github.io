@@ -1,7 +1,6 @@
 ---
 layout: resume
 ---
-## Current Occupation
 
 PhD Student at Stanford University and SLAC National Accelerator Laboratory 
 
