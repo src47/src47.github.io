@@ -1,11 +1,11 @@
 # Site navigation links
-- title: <font size="10">Home
+- title: Home
   url: /
 
 # - title: Presentations
 #  url: /presentations/
 
-- title: <font size="10">Experience
+- title: Experience
   url: /cv/
 
 #- title: Blog
