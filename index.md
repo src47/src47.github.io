@@ -8,7 +8,12 @@ I am a first-year PhD student at Stanford University and SLAC National Accelerat
 ## Current Projects:
 
 - Automatic prediction of crystal lattice parameters from powder XRD data (coming soon!). 
+
+collaborators: Richard Walroth, Vivek Thampy, Kevin Stone, Evan Reed, Mike Dunne, Daniel Ratner, Chris Tassone
+
 - Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy 
+
+collaborators: TJ Lane, Daniel Ratner, Yanwen Sun, Diling Zhu, Mike Dunne (PI)
 
 <img src="images/LCLS_CNN.png" width="750"/>
 
@@ -16,10 +21,17 @@ I am a first-year PhD student at Stanford University and SLAC National Accelerat
 
 - Neural Network Loss Landscapes 
 
+collaborators: Philipp Veepoort, Alpha Lee and David Wales (PI)
+
 <img src="images/disconnectivityGraphs.png" width="750"/>
-  
+   
 - JPL Research 
+
+collaborators: Fred Grieman, Xu Zhang (PI)  
+
 - Machine Learning for cardiac ultrasound time-series data 
+
+collaborators: Baichuan Yuan, Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen and Andrea  Bertozzi (PI).
 
 <img src="images/CardiacUltrasound.png" width="750"/>
 
