@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Sathya Chitturi
   avatar: sathyaBio.png
-  bio: "This is a sample Jekyll academic website."
+  bio: "Highlights of recent research and projects!"
   email: chitturi@stanford.edu
   # Do not include the @ symbol in your Twitter username
   linkedin: #username
