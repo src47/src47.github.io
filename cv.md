@@ -21,48 +21,38 @@ BA in Chemistry
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+MPhil in Scientific Computing Thesis Distinction, Cambridge University
+
+`2018`
+Undergraduate Award in Physical Chemistry, ACS
+
+`2018`
+Royal Society of Chemistry Certificate of Excellence , RSC 
+
+`2018`
+Phi Beta Kappa, PBK
+
+`2018`
+Downing Fellowship, Cambridge University / Pomona College
+
+`2018`
+The Frank Parkhurst Brackett, Jr., and Davida Wark Brackett Prize, Pomona College
 
 ## Publications
 
+Chitturi, S.R., Verpoort, P.C., Lee, A.A, Wales, D.J., 2020. Perspective: new insights from loss function landscapes of neural networks. Machine Learning: Science and Technology, 1(2), p.023002.
+
+Yuan, B., Chitturi, S.R., Iyer, G., Li, N., Xu, X., Zhan, R., Llerena, R., Yen, J.T. and Bertozzi, A.L., 2017, March. Machine learning for cardiac ultrasound time series data. In Medical Imaging 2017: Biomedical Applications in Molecular, Structural, and Functional Imaging (Vol. 10137, p. 101372D). International Society for Optics and Photonics.
+
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
 
 ## Presentations
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+## REU Programs 
 
 
 
