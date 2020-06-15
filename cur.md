@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 ---
 
 ## Past Projects 
