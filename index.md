@@ -11,29 +11,29 @@ I am a first-year PhD student at Stanford University and SLAC National Accelerat
 
 collaborators: Richard Walroth, Vivek Thampy, Kevin Stone, Evan Reed, Mike Dunne, Daniel Ratner, Chris Tassone
 
-### Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy 
-
-collaborators: TJ Lane, Daniel Ratner, Yanwen Sun, Diling Zhu, Mike Dunne (PI)
+#### Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy 
 
 <img src="images/LCLS_CNN.png" width="750"/>
 
+collaborators: TJ Lane, Daniel Ratner, Yanwen Sun, Diling Zhu, Mike Dunne (PI)
+
 ## Past Research 
 
-### Neural Network Loss Landscapes 
-
-collaborators: Philipp Veepoort, Alpha Lee and David Wales (PI)
+#### Neural Network Loss Landscapes 
 
 <img src="images/disconnectivityGraphs.png" width="750"/>
+
+collaborators: Philipp Veepoort, Alpha Lee and David Wales (PI)
    
-### JPL Research 
+#### JPL Research 
 
 collaborators: Fred Grieman, Xu Zhang (PI)  
 
-### Machine Learning for cardiac ultrasound time-series data 
-
-collaborators: Baichuan Yuan, Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen and Andrea  Bertozzi (PI).
+#### Machine Learning for cardiac ultrasound time-series data 
 
 <img src="images/CardiacUltrasound.png" width="750"/>
+
+collaborators: Baichuan Yuan, Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen and Andrea  Bertozzi (PI).
 
 
 
