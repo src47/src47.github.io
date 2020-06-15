@@ -27,6 +27,8 @@ collaborators: Philipp Veepoort, Alpha Lee and David Wales (PI)
    
 #### JPL Research 
 
+<img src="images/UVtime.png" width="750"/>
+
 collaborators: Fred Grieman, Xu Zhang (PI)  
 
 #### Machine Learning for cardiac ultrasound time-series data 
