@@ -10,18 +10,18 @@ I am a first-year PhD student at Stanford University and the SLAC National Accel
 - Automatic prediction of crystal lattice parameters from powder XRD data (coming soon!). 
 - Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy 
 
-<img src="images/LCLS_CNN.png" width="500"/>
+<img src="images/LCLS_CNN.png" width="750"/>
 
 ## Past Research 
 
 - Neural Network Loss Landscapes 
 
-<img src="images/disconnectivityGraphs.png" width="500"/>
+<img src="images/disconnectivityGraphs.png" width="750"/>
   
 - JPL Research 
 - Machine Learning for cardiac ultrasound time-series data 
 
-<img src="images/CardiacUltrasound.png" width="500"/>
+<img src="images/CardiacUltrasound.png" width="750"/>
 
 
 
