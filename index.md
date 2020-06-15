@@ -14,7 +14,7 @@ I am a first-year PhD student at Stanford University and the SLAC National Accel
 
 - Neural Network Loss Landscapes 
 
-<img src="images/disconnectivityGraphs.png" width="100"/>
+<img src="images/disconnectivityGraphs.png" width="300"/>
 
 - JPL Research 
 - Machine Learning for cardiac ultrasound time-series data 
