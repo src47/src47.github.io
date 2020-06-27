@@ -6,7 +6,7 @@ I am a first-year PhD student at Stanford University and SLAC National Accelerat
 
 ## Projects
 
-#### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data
+#### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data (2020 -- )
 
 Powder diffraction is a widely used X-ray based method used to study the structure of crystalline materials. These techniques are particularly insightful in allowing us to understand why particular materials have certain physical properties (such as strength, conductivity, stiffness etc). Using this knowledge, we are better able to intelligently design new materials with desired attributes. Currently, the analysis of powder diffraction data can take significant time and human effort, and therefore any efforts to automate this process will be very useful. 
 
@@ -18,7 +18,7 @@ Collaborators: Richard Walroth, Vivek Thampy, Kevin Stone and Professor Evan Ree
 Supervisors: Chris Tassone, Daniel Ratner and Professor Mike Dunne 
 
 
-#### Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy 
+#### Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy (2020 -- )
 
 Many important physical processes occur on very (very) short timescales (i.e. on the order of femtoseconds). At the Linac Coherent Light Source (LCLS), we study these phenomena using incredibly bright, pulsed X-rays; one technique is known as X-ray Photon Correlation Spectroscopy. Essentially, the idea is to shoot two sequential X-ray pulses (with variable time-delay) at a sample and obtain two snapshots (X-ray images) of the the sample structure at different times. If the X-ray images are the same at both time points, this implies that the structure has not changed between the two pulses. Conversely, if the X-ray images are very different, it implies that something has changed in the sample over that corresponding time-scale. By systematically changing the time-delay, therefore, we are able to map out very complex processes in materials and create "molecular movies". 
 
@@ -29,7 +29,7 @@ The figure-of-merit for X-ray images changing is known as the contrast. The ulti
 Collaborators: Yanwen Sun, Diling Zhu 
 Supervisors: TJ Lane, Daniel Ratner and Professor Mike Dunne 
 
-#### Visualizing and Interpreting Neural Network Loss Landscapes under Mislabelling and Reduced-Connectivity 
+#### Visualizing and Interpreting Neural Network Loss Landscapes under Mislabelling and Reduced-Connectivity (2019)
 
 Neural network loss landscapes are often incredibly complex functions of trainable parameters. Gaining a better understanding of the structure of these landscapes might be useful in allowing for the development of better optimizers and loss functions, thereby improving the predictive capacity of neural networks. Unfortunately, due to computational limitations, there has been relatively little work exploring the full structure of these non-convex functions. 
 
@@ -47,13 +47,19 @@ Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden La
 Collaborators: Philipp Veepoort and Alpha Lee 
 Supervision: Professor David Wales
    
-#### JPL Research 
+#### Methane Oxidation on Mars (2017)
+
+Based on current models (atmospheric flow and meteroite impacts), there should be a relatively substantial amount of methane on Mars. Therefore, it was very suprising when the Curiosity Mars Rover reported that almost no methane could be detected from its measurements. Our project essentially studies the reason for this discrepency. Our hypothesis is that UV light from the sun activates a molecule known Magensium Perchlorate and causes it to oxidize methane into other carbon derivatives. We performed infrared spectroscopy measurements on a cell containing Magnesium Perchlorate and UV light. 
 
 <img src="images/UVtime.png" width="750"/>
 
-collaborators: Fred Grieman, Xu Zhang (PI)  
+Shown above is the effect of irradiating Magnesium Perchlorate with UV light over time. In particular, note the large peak that grows between 1200 and 1500 wavenumbers. This peak corresponds to formation of various (previously uncharacterized) chlorine derivatives. Thus, our experiment shows that UV light can activate the surface of Magnesium Perchlorate. Future work will likely include studying how this activated surface interacts with methane. 
 
-#### Machine Learning for cardiac ultrasound time-series data <a href="Papers/SPIE2017.pdf">[PDF]</a>
+Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer."
+
+Supervisors: Xu Zhang and Professor Fred Grieman 
+
+#### Machine Learning for cardiac ultrasound time-series data <a href="Papers/SPIE2017.pdf">[PDF]</a> (2016)
 
 <img src="images/CardiacUltrasound.png" width="750"/>
 
