@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Current Projects
-
 #### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data
 
 Powder diffraction is a widely used X-ray based method used to study the structure of crystalline materials. These techniques are particularly insightful in allowing us to understand why particular materials have certain physical properties (such as strength, conductivity, stiffness etc). Using this knowledge, we are better able to intelligently design new materials with desired attributes. Currently, the analysis of powder diffraction data can take significant time and human effort, and therefore any efforts to automate this process will be very useful. 
