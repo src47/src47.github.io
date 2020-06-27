@@ -17,7 +17,6 @@ In this project, we develop supervised learning models to predict the shape of t
 Collaborators: Richard Walroth, Vivek Thampy, Kevin Stone and Professor Evan Reed 
 Supervisors: Chris Tassone, Daniel Ratner and Professor Mike Dunne 
 
-
 #### Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy (2020 -- )
 
 Many important physical processes occur on very (very) short timescales (i.e. on the order of femtoseconds). At the Linac Coherent Light Source (LCLS), we study these phenomena using incredibly bright, pulsed X-rays; one technique is known as X-ray Photon Correlation Spectroscopy. Essentially, the idea is to shoot two sequential X-ray pulses (with variable time-delay) at a sample and obtain two snapshots (X-ray images) of the the sample structure at different times. If the X-ray images are the same at both time points, this implies that the structure has not changed between the two pulses. Conversely, if the X-ray images are very different, it implies that something has changed in the sample over that corresponding time-scale. By systematically changing the time-delay, therefore, we are able to map out very complex processes in materials and create "molecular movies". 
