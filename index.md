@@ -43,7 +43,6 @@ To learn more about our work in this area, please check out the paper links!
 
 Paper: "Perspective: new insights from loss function landscapes of neural networks" <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef/meta">[LINK]</a>
 Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer." <a href="Papers/SPIE2017.pdf">[PDF]</a> 
-
 Collaborators: Philipp Veepoort and Alpha Lee 
 Supervision: Professor David Wales
    
@@ -61,7 +60,8 @@ Supervisors: Xu Zhang and Professor Fred Grieman
 
 <img src="images/CardiacUltrasound.png" width="750"/>
 
-collaborators: Baichuan Yuan, Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen and Andrea  Bertozzi (PI).
+Collaborators: Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen 
+Supervisors: Baichuan Yuan and Professor Andrea Bertozzi
 
 
 
