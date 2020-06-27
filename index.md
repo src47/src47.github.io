@@ -38,7 +38,7 @@ Neural network loss landscapes are often incredibly complex functions of trainab
 
 <img src="images/disconnectivityGraphs.png" width="750"/>
 
-In particular, our work focused on using disconnectivity graphs to study how the loss function for single-layered neural networks change as deliberate errors (mislabelling) is introduced into the training dataset as well as how they change when connections between neurons are systematically broken. Our main findings show that the number of minima grow as the mislabelling fraction increases. In the images above, the image on the right corresponds to mislabelling ten percent of the dataset; the image on the left corresponds to control "clean" dataset. Here we color each minima by its performance on the test set as measured by AUC. Interestingly, the lowest training loss minima do not neccesarily correspond to the best test performance. 
+In particular, our work focused on using disconnectivity graphs to study how the loss function for single-layered neural networks changes as deliberate errors (mislabelling) is introduced into the training dataset as well as how they change when connections between neurons are systematically broken. Our main findings show that the number of minima grow as the mislabelling fraction increases. For example, the image on the right corresponds to mislabelling ten percent of the dataset; the image on the left corresponds to control "clean" dataset. Here we color each minima by its performance on the test set as measured by AUC. Interestingly, the lowest training loss minima do not neccesarily correspond to the best test performance. 
 
 To learn more about our work in this area, please check out the paper links! 
 
