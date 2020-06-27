@@ -29,11 +29,21 @@ The figure-of-merit for X-ray images changing is known as the contrast. The ulti
 Collaborators: Yanwen Sun, Diling Zhu 
 Supervisors: TJ Lane, Daniel Ratner and Professor Mike Dunne 
 
-#### Neural Network Loss Landscapes 
+#### Visualizing and Interpreting Neural Network Loss Landscapes under Mislabelling and Reduced-Connectivity 
+
+Paper: "Perspective: new insights from loss function landscapes of neural networks" <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef/meta">[LINK]</a>
+Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer." <a href="Papers/SPIE2017.pdf">[PDF]</a> 
 
 <img src="images/disconnectivityGraphs.png" width="750"/>
 
-collaborators: Philipp Veepoort, Alpha Lee and David Wales (PI)
+Neural network loss landscapes are often incredibly complex functions of trainable parameters. Gaining a better understanding of the structure of these landscapes might be useful in allowing for the development of better optimizers and loss functions, thereby improving the predictive capacity of neural networks. Unfortunately, due to computational limitations, there has been relatively little work exploring the full structure of these non-convex functions. Our approach involves creating topological maps (disconnectivity graphs) of the surface, like those shown above. In these images, the vertical axis represents the neural network training loss. The branches of the graph correspond to the minima of the loss function. More specifically, each branch represents the vector of parameters containing the weights for the neural network, and terminates at a height on the vertical axis corresponding to the training loss function. The branches join together at regularly spaced intervals on the vertical axis when they can interconvert via pathways mediated by index one saddle points. The inspiration for such a decomposition comes from free energy lanscape physics, where minima correspond to stable molecular structures and index 1 saddle points correspond to transition states. 
+
+In particular, our work focused on using disconnectivity graphs to study how the loss function for single-layered neural networks change as deliberate errors (mislabelling) is introduced into the training dataset as well as how they change when connections between neurons are systematically broken. Our main findings show that the number of minima grow as the mislabelling fraction increases. In the images above, the image on the right corresponds to mislabelling ten percent of the dataset; the image on the left corresponds to control "clean" dataset. Here we color each minima by its performance on the test set as measured by AUC. Interestingly, the lowest training loss minima do not neccesarily correspond to the best test performance. 
+
+To learn more about our work in this area, please check out the paper links! 
+
+Collaborators: Philipp Veepoort and Alpha Lee 
+Supervision: Professor David Wales
    
 #### JPL Research 
 
@@ -41,7 +51,7 @@ collaborators: Philipp Veepoort, Alpha Lee and David Wales (PI)
 
 collaborators: Fred Grieman, Xu Zhang (PI)  
 
-#### Machine Learning for cardiac ultrasound time-series data <a href="Papers/SPIE2017.pdf">[PDF]</a></div>
+#### Machine Learning for cardiac ultrasound time-series data <a href="Papers/SPIE2017.pdf">[PDF]</a>
 
 <img src="images/CardiacUltrasound.png" width="750"/>
 
