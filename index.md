@@ -9,7 +9,13 @@ I am a first-year PhD student at Stanford University and SLAC National Accelerat
 
 #### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data (coming soon!).
 
-collaborators: Richard Walroth, Vivek Thampy, Kevin Stone, Evan Reed, Mike Dunne, Daniel Ratner, Chris Tassone
+<img src="images/lattice_parameters_ML.png" width="750"/>
+
+Collaborators: Richard Walroth, Vivek Thampy, Kevin Stone, Daniel Ratner and Professor Evan Reed 
+Supervisors: Chris Tassone and Professor Mike Dunne 
+
+
+
 
 #### Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy 
 
