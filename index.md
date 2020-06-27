@@ -1,7 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="ToAS4lPJO8KZaw9ayRN9IBglDKNbQ-Sk9KfTcUEOXfA" />
-</head>
-
 ---
 layout: page
 excerpt: "About Me..."
