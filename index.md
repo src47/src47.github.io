@@ -1,9 +1,5 @@
 ---
 layout: page
-excerpt: "About Me..."
----
-
-I am a first-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on developing automatic data analysis methods for experiments in Chemistry and Materials Science. Some side interests include theoretical studies of machine learning loss landscapes and using computational methods to discover novel energy and biological materials! Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://en.wikipedia.org/wiki/David_J._Wales) and a BA in Chemistry from Pomona College. 
 
 ## Current Projects
 
