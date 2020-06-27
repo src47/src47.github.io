@@ -7,9 +7,9 @@ I am a first-year PhD student at Stanford University and SLAC National Accelerat
 
 ## Current Projects
 
-#### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data (results coming soon!).
+#### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data (results soon!).
 
-Powder diffraction is a widely used X-ray based method used to study the structure of crystalline materials. These techniques are particularly insightful in allowing us to understand why particular materials have certain physical properties (such as strength, conductivity, stiffness etc). This knowledge is very helpful in allowing us to intelligently design new materials with beneficial attributes. Currently, the analysis of powder diffraction data can take significant time and human effort, and therefore any efforts to automate this process will be very useful. 
+Powder diffraction is a widely used X-ray based method used to study the structure of crystalline materials. These techniques are particularly insightful in allowing us to understand why particular materials have certain physical properties (such as strength, conductivity, stiffness etc). Using this knowledge, we are better able to intelligently design new materials with desired attributes. Currently, the analysis of powder diffraction data can take significant time and human effort, and therefore any efforts to automate this process will be very useful. 
 
 <img src="images/crystalML.png" width="750"/>
 
