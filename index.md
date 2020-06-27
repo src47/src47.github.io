@@ -51,7 +51,7 @@ Based on current models (atmospheric flow and meteroite impacts), there should b
 
 <img src="images/UVtime.png" width="750"/>
 
-Shown above is the effect of irradiating Magnesium Perchlorate with UV light over time. In particular, note the large peak that grows between 1200 and 1500 wavenumbers. This peak corresponds to formation of various (previously uncharacterized) chlorine derivatives. Thus, our experiment shows that UV light can activate the surface of Magnesium Perchlorate. Future work will likely include studying how this activated surface interacts with methane. 
+Shown above is the effect of irradiating Magnesium Perchlorate with UV light over time. Here each plot is a snapshot of the same system after being exposed to a certain amount of UV irradiation (in hours). In particular, note the large peak that grows between 1200 and 1500 wavenumbers. This peak corresponds to formation of various (previously uncharacterized) chlorine derivatives. Thus, our experiment shows that UV light can activate the surface of Magnesium Perchlorate. Future work will likely include studying how this activated surface interacts with methane. 
 
 Supervisors: Xu Zhang and Professor Fred Grieman 
 
