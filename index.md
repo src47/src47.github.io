@@ -57,7 +57,7 @@ Shown above is the effect of irradiating Magnesium Perchlorate with UV light ove
 
 Supervisors: Xu Zhang and Professor Fred Grieman 
 
-#### Machine Learning for cardiac ultrasound time-series data <a href="Papers/SPIE2017.pdf">[PDF]</a> (2016)
+#### Studying Heart Ultrasounds via Unsupervised Learning <a href="Papers/SPIE2017.pdf">[PDF]</a> (2016)
 
 <img src="images/CardiacUltrasound.png" width="750"/>
 
