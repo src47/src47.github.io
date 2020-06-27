@@ -55,8 +55,6 @@ Based on current models (atmospheric flow and meteroite impacts), there should b
 
 Shown above is the effect of irradiating Magnesium Perchlorate with UV light over time. In particular, note the large peak that grows between 1200 and 1500 wavenumbers. This peak corresponds to formation of various (previously uncharacterized) chlorine derivatives. Thus, our experiment shows that UV light can activate the surface of Magnesium Perchlorate. Future work will likely include studying how this activated surface interacts with methane. 
 
-Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer."
-
 Supervisors: Xu Zhang and Professor Fred Grieman 
 
 #### Machine Learning for cardiac ultrasound time-series data <a href="Papers/SPIE2017.pdf">[PDF]</a> (2016)
