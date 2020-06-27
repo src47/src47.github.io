@@ -2,6 +2,12 @@
 layout: page
 ---
 
+## Bio
+
+I am a first-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on developing automatic data analysis methods for experiments in Chemistry and Materials Science. Some side interests include theoretical studies of machine learning loss landscapes and using computational methods to discover novel energy and biological materials! Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://en.wikipedia.org/wiki/David_J._Wales) and a BA in Chemistry from Pomona College. 
+
+## Projects
+
 #### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data
 
 Powder diffraction is a widely used X-ray based method used to study the structure of crystalline materials. These techniques are particularly insightful in allowing us to understand why particular materials have certain physical properties (such as strength, conductivity, stiffness etc). Using this knowledge, we are better able to intelligently design new materials with desired attributes. Currently, the analysis of powder diffraction data can take significant time and human effort, and therefore any efforts to automate this process will be very useful. 
@@ -24,8 +30,6 @@ The figure-of-merit for X-ray images changing is known as the contrast. The ulti
 
 Collaborators: Yanwen Sun, Diling Zhu 
 Supervisors: TJ Lane, Daniel Ratner and Professor Mike Dunne 
-
-## Past Projects 
 
 #### Neural Network Loss Landscapes 
 
