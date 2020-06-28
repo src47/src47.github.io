@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Past Projects
-
 #### Visualizing and Interpreting Neural Network Loss Landscapes under Mislabelling and Reduced-Connectivity (2019)
 
 Neural network loss landscapes are often incredibly complex functions of trainable parameters. Gaining a better understanding of the structure of these landscapes might be useful in allowing for the development of better optimizers and loss functions, thereby improving the predictive capacity of neural networks. Unfortunately, due to computational limitations, there has been relatively little work exploring the full structure of these non-convex functions. 
