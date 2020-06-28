@@ -15,6 +15,7 @@ Powder diffraction is a widely used X-ray based method used to study the structu
 In this project, we develop supervised learning models to predict the shape of the unit-cell of a crystal from both simulated and experimental powder diffraction data collected at the Stanford Synchrotron Radiation Lightsource (SSRL). As shown in the image above, the unit-cell shape is fully defined by six numbers, three lengths and three angles, and therefore this problem can be formulated as a relatively standard regression task with six outputs. We hope to share some of our results soon! 
 
 Collaborators: Richard Walroth, Vivek Thampy, Kevin Stone and Professor Evan Reed 
+
 Supervisors: Chris Tassone, Daniel Ratner and Professor Mike Dunne 
 
 #### Accurate photonizing and contrast estimation for X-ray Photon Correlation Spectroscopy (2020 -- )
@@ -26,6 +27,7 @@ Many important physical processes occur on very (very) short timescales (i.e. on
 The figure-of-merit for X-ray images changing is known as the contrast. The ultimate goal of our work is, therefore, to accurately estimate the contrast from X-ray detector images. In order to determine the contrast, it is first neccesary to count the number of photons hitting the detector at each pixel. Our input to the model is the raw detector image (which may have significant noise, charge-sharing etc) and our output is a sparse-matrix corresponding to the photon counts at each pixel (photonizing). In the image above, we show that we can accurately photonize the input using a CNN. 
 
 Collaborators: Yanwen Sun, Diling Zhu 
+
 Supervisors: TJ Lane, Daniel Ratner and Professor Mike Dunne 
 
 #### Visualizing and Interpreting Neural Network Loss Landscapes under Mislabelling and Reduced-Connectivity (2019)
@@ -41,8 +43,11 @@ In particular, our work focused on using disconnectivity graphs to study how the
 To learn more about our work in this area, please check out the paper links! 
 
 Paper: "Perspective: new insights from loss function landscapes of neural networks" <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef/meta">[LINK]</a>
+
 Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer." <a href="Papers/SPIE2017.pdf">[PDF]</a> 
+
 Collaborators: Philipp Veepoort and Alpha Lee 
+
 Supervision: Professor David Wales
    
 #### Methane Oxidation on Mars (2017)
@@ -60,6 +65,7 @@ Supervisors: Xu Zhang and Professor Fred Grieman
 <img src="images/CardiacUltrasound.png" width="750"/>
 
 Collaborators: Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen 
+
 Supervisors: Baichuan Yuan and Professor Andrea Bertozzi
 
 
