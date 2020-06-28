@@ -11,12 +11,11 @@ owner:
   bio: "Highlights of recent research and projects!"
   email: chitturi@stanford.edu
   # Do not include the @ symbol in your Twitter username
-  linkedin: #username
-  github: src47
+  linkedin: sathya-chitturi-67a9a589
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
+highlight-color: '#8500cc'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
