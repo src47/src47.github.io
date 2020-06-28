@@ -40,7 +40,7 @@ The most important feature in predicting heart disease from cardiac ultrasound v
 
 To approach this problem, we un-packed the video into a large matrix with dimensions (number of frames, number of pixels) and applied Rank-2 non-negative matrix factorization (Rank-2 NMF). This method is similar to eigendecomposition with the addition that the weight-matrix is constrained to have positive entries. We found that Rank-2 NMF, applied to cardiac-ultrasounds, generates end-members (similar to eigenimages) that very closely resemble end-systole and end-diastole. The image above, for example, shows a comparison between the real end-systole (ES) frame and the NMF generated frame. Thus using the NMF generated end-systole and end-diastole frames we were able to accurately estimate the ejection fraction in an unsupervised fasion. 
 
-Please check out our paper for further information. 
+Please check out our paper for further information!
 
 Paper: "Machine learning for cardiac ultrasound time series data." <a href="Papers/SPIE2017.pdf">[PDF]</a> 
 
