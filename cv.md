@@ -2,7 +2,8 @@
 layout: resume
 ---
 
-## 
+## Resume Snapshot 
+
 ## Education
 
 `2019 - 2024`
@@ -44,13 +45,6 @@ Chitturi, S.R., Verpoort, P.C., Lee, A.A, Wales, D.J., 2020. Perspective: new in
 Yuan, B., Chitturi, S.R., Iyer, G., Li, N., Xu, X., Zhan, R., Llerena, R., Yen, J.T. and Bertozzi, A.L., 2017, March. Machine learning for cardiac ultrasound time series data. In Medical Imaging 2017: Biomedical Applications in Molecular, Structural, and Functional Imaging (Vol. 10137, p. 101372D). International Society for Optics and Photonics.
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-## REU Programs 
 
 
 
