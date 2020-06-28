@@ -62,7 +62,15 @@ Supervisors: Xu Zhang and Professor Fred Grieman
 
 #### Studying Heart Ultrasounds via Unsupervised Learning <a href="Papers/SPIE2017.pdf">[PDF]</a> (2016)
 
+The most important feature in predicting heart disease from cardiac ultrasound videos is the ejection fraction (EF), a metric that quantifies the amount of blood in the heart that is "pumped" during one cardiac cycle. A good estimate of this quantity is the difference in volume between the left-ventricle of the heart when it is fully expanded (end-diastole) and when it is fully contracted (end-systole). Our work, therefore, focused on the problem of automatically select frames corresponding to end-systole and end-diastole from 30 second ultrasound videos. 
+
 <img src="images/CardiacUltrasound.png" width="750"/>
+
+We unrolled the video into a large matrix with dimensions (N, m) and applied Rank-2 non-negative matrix factorization (Rank-2 NMF). Note, here N is the number of frames in the video and m is the number of pixels in each image. Interestingly, we found that Rank-2 NMF, applied to cardiac-ultrasounds, generates end-members (similar to eigenimages) that very closely resemble end-systole and end-diastole. The image above, for example, shows a comparison between the real end-systole (ES) frame and the NMF generated frame. Thus using the NMF generated end-systole and end-diastole frames we were able to accurately estimate the ejection fraction. 
+
+Please check out our paper for further information. 
+
+Paper: "Machine learning for cardiac ultrasound time series data." <a href="Papers/SPIE2017.pdf">[PDF]</a> 
 
 Collaborators: Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen 
 
