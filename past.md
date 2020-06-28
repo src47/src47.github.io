@@ -16,7 +16,7 @@ To learn more about our work in this area, please check out the paper links!
 
 Paper: "Perspective: new insights from loss function landscapes of neural networks" <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef/meta">[LINK]</a>
 
-Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer." <a href="Papers/SPIE2017.pdf">[PDF]</a> 
+Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer." <a href="/Papers/SPIE2017.pdf">[PDF]</a> 
 
 Collaborators: Philipp Veepoort and Alpha Lee 
 
@@ -32,7 +32,7 @@ Shown above is the effect of irradiating Magnesium Perchlorate with UV light ove
 
 Supervisors: Xu Zhang and Professor Fred Grieman 
 
-#### Studying Heart Ultrasounds via Unsupervised Learning <a href="Papers/SPIE2017.pdf">[PDF]</a> (2016)
+#### Studying Heart Ultrasounds via Unsupervised Learning <a href="/Papers/SPIE2017.pdf">[PDF]</a> (2016)
 
 The most important feature in predicting heart disease from cardiac ultrasound videos is the ejection fraction (EF), a metric that quantifies the amount of blood that is pumped by the heart during one cardiac cycle. A good estimate of this quantity is the difference in volume between the left-ventricle of the heart when it is fully expanded (end-diastole) and when it is fully contracted (end-systole). Our work, therefore, focused on the problem of automatically selecting frames corresponding to end-systole and end-diastole from 30 second ultrasound videos. 
 
@@ -42,7 +42,7 @@ To approach this problem, we un-packed the video into a large matrix with dimens
 
 Please check out our paper for further information!
 
-Paper: "Machine learning for cardiac ultrasound time series data." <a href="Papers/SPIE2017.pdf">[PDF]</a> 
+Paper: "Machine learning for cardiac ultrasound time series data." <a href="/Papers/SPIE2017.pdf">[PDF]</a> 
 
 Collaborators: Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse Yen 
 
