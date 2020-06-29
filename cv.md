@@ -38,9 +38,10 @@ The Frank Parkhurst Brackett, Jr., and Davida Wark Brackett Prize, Pomona Colleg
 
 ## Publications
 
-Chitturi, S.R., Verpoort, P.C., Lee, A.A, Wales, D.J., 2020. Perspective: new insights from loss function landscapes of neural networks. Machine Learning: Science and Technology, 1(2), p.023002.
+[Chitturi, S.R., Verpoort, P.C., Lee, A.A, Wales, D.J., 2020. Perspective: new insights from loss function landscapes of neural networks. Machine Learning: Science and Technology, 1(2), p.023002.](https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef)
 
-Yuan, B., Chitturi, S.R., Iyer, G., Li, N., Xu, X., Zhan, R., Llerena, R., Yen, J.T. and Bertozzi, A.L., 2017, March. Machine learning for cardiac ultrasound time series data. In Medical Imaging 2017: Biomedical Applications in Molecular, Structural, and Functional Imaging (Vol. 10137, p. 101372D). International Society for Optics and Photonics.
+
+[Yuan, B., Chitturi, S.R., Iyer, G., Li, N., Xu, X., Zhan, R., Llerena, R., Yen, J.T. and Bertozzi, A.L., 2017, March. Machine learning for cardiac ultrasound time series data. In Medical Imaging 2017: Biomedical Applications in Molecular, Structural, and Functional Imaging (Vol. 10137, p. 101372D). International Society for Optics and Photonics.](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2254704?SSO=1)
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
