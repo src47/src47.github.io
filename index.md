@@ -15,7 +15,7 @@ Powder diffraction is a widely used X-ray based method used to study the structu
 
 <img src="images/crystal_ML.png" width="750"/>
 
-In this project, we develop supervised learning models to predict the shape of the unit-cell of a crystal from both simulated and experimental powder diffraction data collected at the Stanford Synchrotron Radiation Lightsource (SSRL). As shown in the image above, the unit-cell shape is fully defined by six numbers, three lengths and three angles, and therefore this problem can be formulated as a relatively standard regression task with six outputs. We hope to share some of our results soon! 
+In this project, we develop supervised learning models to predict the shape of the unit-cell of a crystal from simulated data as well as experimental data collected at the Stanford Synchrotron Radiation Lightsource (SSRL). As shown in the image above, the unit-cell shape is fully defined by six numbers, three lengths and three angles, and therefore this problem can be formulated as a standard non-linear regression task with six outputs. We hope to share some of our results soon! 
 
 Collaborators: Richard Walroth, Vivek Thampy, Kevin Stone and Professor Evan Reed 
 
