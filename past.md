@@ -16,7 +16,7 @@ To learn more about our work in this area, please check out the paper links!
 
 Paper: "Perspective: new insights from loss function landscapes of neural networks" <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef/meta">[LINK]</a>
 
-Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer." <a href="/Papers/SPIE2017.pdf">[PDF]</a> 
+Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden Layer." <a href="/Papers/Sathya.Chitturi.MPhil.Thesis.pdf">[PDF]</a> 
 
 Collaborators: Philipp Veepoort and Alpha Lee 
 
