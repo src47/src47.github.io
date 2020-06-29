@@ -20,7 +20,7 @@ Thesis: "Machine Learning Landscapes for Neural Networks with a Single Hidden La
 
 Collaborators: Philipp Veepoort and Alpha Lee 
 
-Supervision: Professor David Wales
+Supervisor: Professor David Wales
    
 #### Methane Oxidation on Mars (2017)
 
