@@ -13,7 +13,7 @@ I am a first-year PhD student at Stanford University and SLAC National Accelerat
 
 Powder diffraction is a widely used X-ray based method used to study the structure of crystalline materials. These techniques are particularly insightful in allowing us to understand why particular materials have certain physical properties (such as strength, conductivity, stiffness etc). Using this knowledge, we are better able to intelligently design new materials with desired attributes. Currently, the analysis of powder diffraction data can take significant time and human effort, and therefore any efforts to automate this process will be very useful. 
 
-<img src="images/crystalML.png" width="750"/>
+<img src="images/crystal_ML.png" width="750"/>
 
 In this project, we develop supervised learning models to predict the shape of the unit-cell of a crystal from both simulated and experimental powder diffraction data collected at the Stanford Synchrotron Radiation Lightsource (SSRL). As shown in the image above, the unit-cell shape is fully defined by six numbers, three lengths and three angles, and therefore this problem can be formulated as a relatively standard regression task with six outputs. We hope to share some of our results soon! 
 
