@@ -6,7 +6,7 @@ layout: page
 
 I am a fourth-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on automatically interpreting the results of large scale X-ray scattering experiments and performing adaptive experimental decision making. Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://www.ch.cam.ac.uk/group/wales/person/dw34) and a BA in Chemistry from Pomona College. 
 
-### Current Projects
+### PhD Projects
 
 #### Accurate Photonizing and Contrast Estimation for X-ray Photon Correlation Spectroscopy
 
