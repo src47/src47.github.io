@@ -4,7 +4,7 @@ layout: page
                 
 ### About Me 
 
-I am a first-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on developing automatic data analysis methods for experiments in Chemistry and Materials Science. Some side interests include theoretical studies of machine learning loss landscapes and using computational methods to discover novel energy and biological materials! Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://www.ch.cam.ac.uk/group/wales/person/dw34) and a BA in Chemistry from Pomona College. 
+I am a fourth-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on automatically interpreting the results of large scale X-ray scattering experiments and performing adaptive experimental decision making. Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://www.ch.cam.ac.uk/group/wales/person/dw34) and a BA in Chemistry from Pomona College. 
 
 ### Current Projects
 
@@ -27,8 +27,6 @@ Many important physical processes occur on very (very) short timescales (i.e. on
 <img src="images/LCLS_CNN.png" width="750"/>
 
 The figure-of-merit for quantifying how two X-ray images are different is known as the contrast. The ultimate goal of our work is, therefore, to accurately estimate the contrast from X-ray detector images. In order to determine the contrast, it is first neccesary to count the number of photons hitting the detector at each pixel. Our input to the model is the raw detector image (which may have significant noise, charge-sharing etc) and our output is a sparse-matrix corresponding to the photon counts at each pixel (photonizing). In the image above, we show that we can accurately photonize the input using a CNN. 
-
-Collaborators: Yanwen Sun, Diling Zhu 
 
 Supervisors: TJ Lane, Daniel Ratner and Professor Mike Dunne 
 
