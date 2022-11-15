@@ -10,9 +10,9 @@ I am a fourth-year PhD student at Stanford University and SLAC National Accelera
 
 #### Accurate Photonizing and Contrast Estimation for X-ray Photon Correlation Spectroscopy
 
-Many important physical processes occur on very (very) short timescales (i.e. on the order of femtoseconds). At the Linac Coherent Light Source (LCLS), we study these phenomena using incredibly bright, pulsed X-rays; one technique is known as X-ray Photon Correlation Spectroscopy. At a high-level, the idea is to use extremely coherent light to collect scattering from individual atom positions as images known as speckles (an example image is shown below, courtesy of Josh Turner). 
-
 <img src="images/josh_speckle.png" width="750"/>
+
+Many important physical processes occur on very (very) short timescales (i.e. on the order of femtoseconds). At the Linac Coherent Light Source (LCLS), we study these phenomena using incredibly bright, pulsed X-rays; one technique is known as X-ray Photon Correlation Spectroscopy. At a high-level, the idea is to use extremely coherent light to collect scattering from individual atom positions as images known as speckles (an example image is shown above, courtesy of Josh Turner). 
 
 To study dynamics, two sequential X-ray pulses are shot (with variable time-delay) at a sample to obtain two snapshots (X-ray speckle images) of the sample structure at different times. If the speckle images are the same at both time points, this implies that the structure has not changed between the two pulses. Conversely, if the X-ray images are very different, it implies that something has changed in the sample over that corresponding time-scale. By systematically changing the time-delay we are able to map out very complex processes in materials and create "molecular movies". 
 
