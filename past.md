@@ -32,7 +32,7 @@ Shown above is the effect of irradiating Magnesium Perchlorate with UV light ove
 
 Please check out our paper for further information!
 
-Paper: Reaction of methane and UV-activated perchlorate: Relevance to heterogeneous loss of methane in the atmosphere of Mars. [https://www.sciencedirect.com/science/article/pii/S0019103521004760?casa_token=JmXWeqgv_iYAAAAA:KdnGz8URCXrFO9lvH77TH_yCeqwDESqUfcdG_IPJy7eJ0nvUIFe-Y20MYiEK4_Tnf0_BF1Xjzw](LINK)
+Paper: Reaction of methane and UV-activated perchlorate: Relevance to heterogeneous loss of methane in the atmosphere of Mars. [LINK](https://www.sciencedirect.com/science/article/pii/S0019103521004760?casa_token=JmXWeqgv_iYAAAAA:KdnGz8URCXrFO9lvH77TH_yCeqwDESqUfcdG_IPJy7eJ0nvUIFe-Y20MYiEK4_Tnf0_BF1Xjzw)
 
 Supervisors: Xu Zhang and Professor Fred Grieman 
 
