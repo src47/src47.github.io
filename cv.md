@@ -42,6 +42,8 @@ The Frank Parkhurst Brackett, Jr., and Davida Wark Brackett Prize, Pomona Colleg
 
 [Chitturi, S.R., Burdet, N.G., Nashed, Y., Ratner, D., Mishra, A., Lane, T.J., Seaberg, M., Esposito, V., Yoon, C.H., Dunne, M. and Turner, J.J., 2022. A machine learning photon detection algorithm for coherent x-ray ultrafast fluctuation analysis. Structural Dynamics, 9(5), p.054302.](https://aca.scitation.org/doi/full/10.1063/4.0000161)
 
+[Zhang, X., Berkinsky, D., Markus, C.R., Chitturi, S.R., Grieman, F.J., Okumura, M., Luo, Y., Yung, Y.L. and Sander, S.P., 2022. Reaction of methane and UV-activated perchlorate: Relevance to heterogeneous loss of methane in the atmosphere of Mars. Icarus, 376, p.114832.](https://www.sciencedirect.com/science/article/pii/S0019103521004760?casa_token=JmXWeqgv_iYAAAAA:KdnGz8URCXrFO9lvH77TH_yCeqwDESqUfcdG_IPJy7eJ0nvUIFe-Y20MYiEK4_Tnf0_BF1Xjzw)
+
 [Chitturi, S.R., Ratner, D., Walroth, R.C., Thampy, V., Reed, E.J., Dunne, M., Tassone, C.J. and Stone, K.H., 2021. Automated prediction of lattice parameters from X-ray powder diffraction patterns. Journal of Applied Crystallography, 54(6).](http://scripts.iucr.org/cgi-bin/paper?vb5020)
 
 [Chitturi, S.R., Verpoort, P.C., Lee, A.A, Wales, D.J., 2020. Perspective: new insights from loss function landscapes of neural networks. Machine Learning: Science and Technology, 1(2), p.023002.](https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef)
