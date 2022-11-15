@@ -30,6 +30,10 @@ Based on current models (atmospheric flow and meteroite impacts), there should b
 
 Shown above is the effect of irradiating Magnesium Perchlorate with UV light over time. Here each plot is a snapshot of the same system after being exposed to a certain duration of UV irradiation (in hours). In particular, note the large peak that grows between 1200 and 1500 wavenumbers. This peak corresponds to the formation of various (previously uncharacterized) chlorine oxide derivatives. Thus, our experiment shows that UV light can activate the surface of Magnesium Perchlorate. Future work will likely include studying how this activated surface interacts with methane. 
 
+Please check out our paper for further information!
+
+Paper: Reaction of methane and UV-activated perchlorate: Relevance to heterogeneous loss of methane in the atmosphere of Mars. [https://www.sciencedirect.com/science/article/pii/S0019103521004760?casa_token=JmXWeqgv_iYAAAAA:KdnGz8URCXrFO9lvH77TH_yCeqwDESqUfcdG_IPJy7eJ0nvUIFe-Y20MYiEK4_Tnf0_BF1Xjzw](LINK)
+
 Supervisors: Xu Zhang and Professor Fred Grieman 
 
 #### Studying Heart Ultrasounds via Unsupervised Learning (2016)
