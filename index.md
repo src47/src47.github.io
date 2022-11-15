@@ -16,6 +16,9 @@ Many important physical processes occur on very (very) short timescales (i.e. on
 
 The figure-of-merit for quantifying how two X-ray images are different is known as the contrast. The ultimate goal of our work is, therefore, to accurately estimate the contrast from X-ray detector images. In order to determine the contrast, it is first neccesary to count the number of photons hitting the detector at each pixel. Our input to the model is the raw detector image (which may have significant noise, charge-sharing etc) and our output is a sparse-matrix corresponding to the photon counts at each pixel (photonizing). In the image above, we show that we can accurately photonize the input using a CNN. 
 
+
+Please check out our [publication](https://aca.scitation.org/doi/10.1063/4.0000161) and [press](https://www6.slac.stanford.edu/news/2022-11-07-artificial-intelligence-deciphers-detector-clouds-accelerate-materials-research) article for further details..
+
 #### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data
 
 Powder diffraction is a widely used X-ray based method used to study the structure of crystalline materials. These techniques are particularly insightful in allowing us to understand why particular materials have certain physical properties (such as strength, conductivity, stiffness etc). Using this knowledge, we are better able to intelligently design new materials with desired attributes. Currently, the analysis of powder diffraction data can take significant time and human effort, and therefore any efforts to automate this process will be very useful. 
