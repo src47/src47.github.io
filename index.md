@@ -12,7 +12,7 @@ I am a fifth-year PhD student at Stanford University and SLAC National Accelerat
 
 <img src="images/machine_learning_la_final.jpg" width="750"/>
 
-More details to come! For now, please check out our [publication](https://www.nature.com/articles/s41467-023-41378-4) for further details!
+More details to come! For now, please check out our [publication](https://www.nature.com/articles/s41467-023-41378-4) and [code](https://github.com/slaclab/neural-representation-sqw) for further details!
 
 #### Accurate Photonizing and Contrast Estimation for X-ray Photon Correlation Spectroscopy
 
@@ -27,7 +27,7 @@ To study dynamics, two sequential X-ray pulses are shot (with variable time-dela
 The figure-of-merit for quantifying how two X-ray images are different is known as the contrast. The ultimate goal of our work is, therefore, to accurately estimate the contrast from X-ray detector images. In order to determine the contrast, it is first neccesary to count the number of photons hitting the detector at each pixel. Our input to the model is the raw detector image (which may have significant noise, charge-sharing etc) and our output is a sparse-matrix corresponding to the photon counts at each pixel (photonizing). In the image above, we show that we can accurately photonize the input using a CNN. 
 
 
-Please check out our [publication](https://aca.scitation.org/doi/10.1063/4.0000161) and [press](https://www6.slac.stanford.edu/news/2022-11-07-artificial-intelligence-deciphers-detector-clouds-accelerate-materials-research) article for further details..
+Please check out our [publication](https://aca.scitation.org/doi/10.1063/4.0000161), [code](https://github.com/slaclab/ml_xpfs) and [press](https://www6.slac.stanford.edu/news/2022-11-07-artificial-intelligence-deciphers-detector-clouds-accelerate-materials-research) article for further details..
 
 #### Automatic prediction of crystal lattice parameters from powder X-ray Diffraction data
 
