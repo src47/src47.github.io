@@ -12,6 +12,8 @@ I am a fifth-year PhD student at Stanford University and SLAC National Accelerat
 
 <img src="images/machine_learning_la_final.jpg" width="750"/>
 
+Further details to come! For now, please check out our [publication](https://www.nature.com/articles/s41467-023-41378-4) for further details!
+
 #### Accurate Photonizing and Contrast Estimation for X-ray Photon Correlation Spectroscopy
 
 <img src="images/josh_speckle.png" width="750"/>
