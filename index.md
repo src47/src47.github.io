@@ -4,7 +4,9 @@ layout: page
                 
 ### About Me 
 
-I am a fifth-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on using artifical intelligence to interpret the results of large scale X-ray scattering experiments and designing informative experiments based on probabilistic decision making paradigms. Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://www.ch.cam.ac.uk/group/wales/person/dw34) and a BA in Chemistry from Pomona College. 
+I am a fifth-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on using artifical intelligence to interpret the results of large scale X-ray scattering experiments and designing intelligent data acquisition schemes using probabilistic models. 
+
+Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://www.ch.cam.ac.uk/group/wales/person/dw34) and a BA in Chemistry from Pomona College under the supervision of Professor [Fred Grieman](https://www.pomona.edu/directory/people/frederick-j-grieman). 
 
 ### PhD Projects
 
