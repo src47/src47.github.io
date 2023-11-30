@@ -18,6 +18,10 @@ BA in Chemistry
 
 ## Publications
 
+[Chen, Z., Peng, C., Petsch, A.N., Chitturi, S.R., Okullo, A., Chowdhury, S., Yoon, C.H. and Turner, J.J., 2023. Machine learning enabled experimental design and parameter estimation for ultrafast spin dynamics. arXiv preprint arXiv:2306.02015.](https://arxiv.org/abs/2306.02015)
+
+[Chitturi, S.R., Ji, Z., Petsch, A.N., Peng, C., Chen, Z., Plumley, R., Dunne, M., Mardanya, S., Chowdhury, S., Chen, H. and Bansil, A., 2023. Capturing dynamical correlations using implicit neural representations. Nature Communications, 14(1), p.5852.](https://www.nature.com/articles/s41467-023-41378-4) 
+
 [Chen, H., Chitturi, S.R., Plumley, R., Shen, L., Drucker, N.C., Burdet, N., Peng, C., Mardanya, S., Ratner, D., Mishra, A. and Yoon, C.H., 2022. Testing the data framework for an AI algorithm in preparation for high data rate X-ray facilities. arXiv preprint arXiv:2210.10137.](https://arxiv.org/abs/2210.10137)
 
 [Chitturi, S.R., Burdet, N.G., Nashed, Y., Ratner, D., Mishra, A., Lane, T.J., Seaberg, M., Esposito, V., Yoon, C.H., Dunne, M. and Turner, J.J., 2022. A machine learning photon detection algorithm for coherent x-ray ultrafast fluctuation analysis. Structural Dynamics, 9(5), p.054302.](https://aca.scitation.org/doi/full/10.1063/4.0000161)
