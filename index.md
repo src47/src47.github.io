@@ -13,6 +13,7 @@ Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambr
 #### Capturing dynamical correlations using implicit neural representations
 
 <img src="images/machine_learning_la_final.jpg" width="750"/>
+Graphic created by Stewart!
 
 More details to come! For now, please check out our [publication](https://www.nature.com/articles/s41467-023-41378-4) and [code](https://github.com/slaclab/neural-representation-sqw) for further details!
 
