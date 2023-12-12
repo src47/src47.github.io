@@ -15,7 +15,7 @@ Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambr
 <img src="images/machine_learning_la_final.jpg" width="750"/>
 Graphic created by Stewart!
 
-More details to come! For now, please check out our [publication](https://www.nature.com/articles/s41467-023-41378-4) and [code](https://github.com/slaclab/neural-representation-sqw) for further details!
+More details to come! For now, please check out our [publication](https://www.nature.com/articles/s41467-023-41378-4), [code](https://github.com/slaclab/neural-representation-sqw) and [press](https://www6.slac.stanford.edu/news/2023-10-12-new-ai-driven-tool-streamlines-experiments) article for further details!
 
 #### Accurate Photonizing and Contrast Estimation for X-ray Photon Correlation Spectroscopy
 
