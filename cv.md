@@ -18,7 +18,7 @@ BA in Chemistry
 
 ## Publications
 
-[Chen, Z., Peng, C., Petsch, A.N., Chitturi, S.R., Okullo, A., Chowdhury, S., Yoon, C.H. and Turner, J.J., 2023. Machine learning enabled experimental design and parameter estimation for ultrafast spin dynamics. arXiv preprint arXiv:2306.02015.](https://arxiv.org/abs/2306.02015)
+[Chen, Z., PENG, C., Petsch, A.N., Chitturi, S.R., Okullo, A., Chowdhury, S., Yoon, C.H. and Turner, J., 2023. Bayesian experimental design and parameter estimation for ultrafast spin dynamics. Machine Learning: Science and Technology.](https://iopscience.iop.org/article/10.1088/2632-2153/ad113a/meta)
 
 [Chitturi, S.R., Ji, Z., Petsch, A.N., Peng, C., Chen, Z., Plumley, R., Dunne, M., Mardanya, S., Chowdhury, S., Chen, H. and Bansil, A., 2023. Capturing dynamical correlations using implicit neural representations. Nature Communications, 14(1), p.5852.](https://www.nature.com/articles/s41467-023-41378-4) 
 
