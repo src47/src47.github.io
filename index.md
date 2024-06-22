@@ -4,16 +4,19 @@ layout: page
                 
 ### About Me 
 
-I am a fifth-year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My primary research focuses on using artifical intelligence to interpret the results of large scale X-ray scattering experiments and designing intelligent data acquisition schemes using probabilistic models. 
+I am a final year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My research focuses on developing AI-based methods to infer structural and dynamical materials properties from X-ray and neutron scattering experiments and to design targeted and intelligent data acquisition strategies. 
 
 Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://www.ch.cam.ac.uk/group/wales/person/dw34) and a BA in Chemistry from Pomona College under the supervision of Professor [Fred Grieman](https://www.pomona.edu/directory/people/frederick-j-grieman). 
 
 ### PhD Projects
 
+#### Targeted materials discovery using Bayesian algorithm execution
+
+
 #### Capturing dynamical correlations using implicit neural representations
 
 <img src="images/machine_learning_la_final.jpg" width="750"/>
-Graphic created by Stewart!
+Graphic created by Gregory Stewart!
 
 More details to come! For now, please check out our [publication](https://www.nature.com/articles/s41467-023-41378-4), [code](https://github.com/slaclab/neural-representation-sqw) and [press](https://www6.slac.stanford.edu/news/2023-10-12-new-ai-driven-tool-streamlines-experiments) article for further details!
 
