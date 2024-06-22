@@ -18,21 +18,21 @@ BA in Chemistry
 
 ## Publications
 
-[Chen, Z., PENG, C., Petsch, A.N., Chitturi, S.R., Okullo, A., Chowdhury, S., Yoon, C.H. and Turner, J., 2023. Bayesian experimental design and parameter estimation for ultrafast spin dynamics. Machine Learning: Science and Technology.](https://iopscience.iop.org/article/10.1088/2632-2153/ad113a/meta)
+[Chen, Z., PENG, C., Petsch, A.N., **Chitturi, S.R.**, Okullo, A., Chowdhury, S., Yoon, C.H. and Turner, J., 2023. Bayesian experimental design and parameter estimation for ultrafast spin dynamics. Machine Learning: Science and Technology.](https://iopscience.iop.org/article/10.1088/2632-2153/ad113a/meta)
 
-[Chitturi, S.R., Ji, Z., Petsch, A.N., Peng, C., Chen, Z., Plumley, R., Dunne, M., Mardanya, S., Chowdhury, S., Chen, H. and Bansil, A., 2023. Capturing dynamical correlations using implicit neural representations. Nature Communications, 14(1), p.5852.](https://www.nature.com/articles/s41467-023-41378-4) 
+[**Chitturi, S.R.**, Ji, Z., Petsch, A.N., Peng, C., Chen, Z., Plumley, R., Dunne, M., Mardanya, S., Chowdhury, S., Chen, H. and Bansil, A., 2023. Capturing dynamical correlations using implicit neural representations. Nature Communications, 14(1), p.5852.](https://www.nature.com/articles/s41467-023-41378-4) 
 
-[Chen, H., Chitturi, S.R., Plumley, R., Shen, L., Drucker, N.C., Burdet, N., Peng, C., Mardanya, S., Ratner, D., Mishra, A. and Yoon, C.H., 2022. Testing the data framework for an AI algorithm in preparation for high data rate X-ray facilities. arXiv preprint arXiv:2210.10137.](https://arxiv.org/abs/2210.10137)
+[Chen, H., **Chitturi, S.R.**, Plumley, R., Shen, L., Drucker, N.C., Burdet, N., Peng, C., Mardanya, S., Ratner, D., Mishra, A. and Yoon, C.H., 2022. Testing the data framework for an AI algorithm in preparation for high data rate X-ray facilities. arXiv preprint arXiv:2210.10137.](https://arxiv.org/abs/2210.10137)
 
-[Chitturi, S.R., Burdet, N.G., Nashed, Y., Ratner, D., Mishra, A., Lane, T.J., Seaberg, M., Esposito, V., Yoon, C.H., Dunne, M. and Turner, J.J., 2022. A machine learning photon detection algorithm for coherent x-ray ultrafast fluctuation analysis. Structural Dynamics, 9(5), p.054302.](https://aca.scitation.org/doi/full/10.1063/4.0000161)
+[**Chitturi, S.R.**, Burdet, N.G., Nashed, Y., Ratner, D., Mishra, A., Lane, T.J., Seaberg, M., Esposito, V., Yoon, C.H., Dunne, M. and Turner, J.J., 2022. A machine learning photon detection algorithm for coherent x-ray ultrafast fluctuation analysis. Structural Dynamics, 9(5), p.054302.](https://aca.scitation.org/doi/full/10.1063/4.0000161)
 
-[Zhang, X., Berkinsky, D., Markus, C.R., Chitturi, S.R., Grieman, F.J., Okumura, M., Luo, Y., Yung, Y.L. and Sander, S.P., 2022. Reaction of methane and UV-activated perchlorate: Relevance to heterogeneous loss of methane in the atmosphere of Mars. Icarus, 376, p.114832.](https://www.sciencedirect.com/science/article/pii/S0019103521004760?casa_token=JmXWeqgv_iYAAAAA:KdnGz8URCXrFO9lvH77TH_yCeqwDESqUfcdG_IPJy7eJ0nvUIFe-Y20MYiEK4_Tnf0_BF1Xjzw)
+[Zhang, X., Berkinsky, D., Markus, C.R., **Chitturi, S.R.**, Grieman, F.J., Okumura, M., Luo, Y., Yung, Y.L. and Sander, S.P., 2022. Reaction of methane and UV-activated perchlorate: Relevance to heterogeneous loss of methane in the atmosphere of Mars. Icarus, 376, p.114832.](https://www.sciencedirect.com/science/article/pii/S0019103521004760?casa_token=JmXWeqgv_iYAAAAA:KdnGz8URCXrFO9lvH77TH_yCeqwDESqUfcdG_IPJy7eJ0nvUIFe-Y20MYiEK4_Tnf0_BF1Xjzw)
 
-[Chitturi, S.R., Ratner, D., Walroth, R.C., Thampy, V., Reed, E.J., Dunne, M., Tassone, C.J. and Stone, K.H., 2021. Automated prediction of lattice parameters from X-ray powder diffraction patterns. Journal of Applied Crystallography, 54(6).](http://scripts.iucr.org/cgi-bin/paper?vb5020)
+[**Chitturi, S.R.**, Ratner, D., Walroth, R.C., Thampy, V., Reed, E.J., Dunne, M., Tassone, C.J. and Stone, K.H., 2021. Automated prediction of lattice parameters from X-ray powder diffraction patterns. Journal of Applied Crystallography, 54(6).](http://scripts.iucr.org/cgi-bin/paper?vb5020)
 
-[Chitturi, S.R., Verpoort, P.C., Lee, A.A, Wales, D.J., 2020. Perspective: new insights from loss function landscapes of neural networks. Machine Learning: Science and Technology, 1(2), p.023002.](https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef)
+[**Chitturi, S.R.**, Verpoort, P.C., Lee, A.A, Wales, D.J., 2020. Perspective: new insights from loss function landscapes of neural networks. Machine Learning: Science and Technology, 1(2), p.023002.](https://iopscience.iop.org/article/10.1088/2632-2153/ab7aef)
 
-[Yuan, B., Chitturi, S.R., Iyer, G., Li, N., Xu, X., Zhan, R., Llerena, R., Yen, J.T. and Bertozzi, A.L., 2017, March. Machine learning for cardiac ultrasound time series data. In Medical Imaging 2017: Biomedical Applications in Molecular, Structural, and Functional Imaging (Vol. 10137, p. 101372D). International Society for Optics and Photonics.](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2254704?SSO=1)
+[Yuan, B., **Chitturi, S.R.**, Iyer, G., Li, N., Xu, X., Zhan, R., Llerena, R., Yen, J.T. and Bertozzi, A.L., 2017, March. Machine learning for cardiac ultrasound time series data. In Medical Imaging 2017: Biomedical Applications in Molecular, Structural, and Functional Imaging (Vol. 10137, p. 101372D). International Society for Optics and Photonics.](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2254704?SSO=1)
 
 ## Awards
 
