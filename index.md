@@ -4,7 +4,7 @@ layout: page
                 
 ### About Me 
 
-I am a final year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My research focuses on developing AI-based methods to infer structural and dynamical materials properties from X-ray and neutron scattering experiments and to design targeted and intelligent data acquisition strategies. 
+I am a final year PhD student at Stanford University and SLAC National Accelerator Laboratory, advised by Professor [Mike Dunne](https://profiles.stanford.edu/Mike-dunne). My research focuses on developing AI-based methods to analyze X-ray and neutron scattering experiments in real-time and designing methodology to enable targeted, intelligent data acquisition strategies. 
 
 Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambridge University under the supervision of Professor [David Wales](https://www.ch.cam.ac.uk/group/wales/person/dw34) and a BA in Chemistry from Pomona College under the supervision of Professor [Fred Grieman](https://www.pomona.edu/directory/people/frederick-j-grieman). 
 
