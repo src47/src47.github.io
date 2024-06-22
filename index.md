@@ -12,6 +12,9 @@ Prior to Stanford, I obtained an MPhil degree in Scientific Computing from Cambr
 
 #### Targeted materials discovery using Bayesian algorithm execution
 
+<img src="images/bax_overview.png" width="750"/>
+
+Very brief summary: this paper proposes several techniques to intelligently locate subsets of a material design space that are aligned with complex, user-defined goals. More details to come! For now, please check out our arxiv [pre-print](https://arxiv.org/abs/2312.16078) and [code](https://github.com/src47/multibax-sklearn) for further details!
 
 #### Capturing dynamical correlations using implicit neural representations
 
